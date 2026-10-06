@@ -1,5 +1,4 @@
-/* global isStringWithinLength, isPalindrome, extractNumbers */
-/* eslint no-unused-vars: ["error", { "varsIgnorePattern": "^isStringWithinLength$|^isPalindrome$|^extractNumbers$" }] */
+/* eslint-disable no-unused-vars */
 
 /**
  * Проверяет, не превышает ли строка максимальную длину.
