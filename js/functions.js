@@ -1,3 +1,5 @@
+/* exported isStringWithinLength, isPalindrome, extractNumbers */
+
 /**
  * Проверяет, не превышает ли строка максимальную длину.
  * @param {string} str - Строка для проверки.
